@@ -1,0 +1,16 @@
+{
+  "name": "web-to-markdown-llm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Convert any URL to clean LLM-ready markdown. The Firecrawl alternative on Apify.",
+  "main": "src/main.js",
+  "dependencies": {
+    "apify": "^3.2.6",
+    "cheerio": "^1.0.0",
+    "puppeteer": "^23.0.0",
+    "turndown": "^7.2.0"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}

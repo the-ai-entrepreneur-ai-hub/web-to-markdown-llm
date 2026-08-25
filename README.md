@@ -192,7 +192,7 @@ A: Yes. Pass an `urls` array in batch mode for multiple pages.
 ## Support
 
 - GitHub: [the-ai-entrepreneur-ai-hub](https://github.com/the-ai-entrepreneur-ai-hub)
-- Apify Store: [george.the.developer](https://apify.com/george.the.developer)
+- Apify Store: [george.the.developer](https://apify.com/george.the.developer?fpr=bbquoh)
 - Twitter: [@ai_in_it](https://x.com/ai_in_it)
 
 Found a bug? Open an issue or DM on Twitter.
